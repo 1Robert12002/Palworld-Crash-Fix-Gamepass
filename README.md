@@ -1,4 +1,4 @@
-<p align="center"><img src="https://freebiehive.com/wp-content/uploads/2024/01/Palworld-Logo-PNG-758x473.jpg" height="180"/>
+<p align="center"><img src="https://freebiehive.com/wp-content/uploads/2024/01/Palworld-Logo-PNG-758x473.png" height="180"/>
 <p align="center">
   <img alt="windows" src="https://img.shields.io/badge/Windows-blue.svg?style=flat-square&logo=windows&logoColor=white" />
   <img alt="release" src="https://img.shields.io/github/v/release/PAXANDDOS/ForzaHorizon4Fix?style=flat-square" />
