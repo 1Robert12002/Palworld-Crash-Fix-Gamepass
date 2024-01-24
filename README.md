@@ -4,8 +4,7 @@
   <img alt="release" src="https://img.shields.io/github/v/release/PAXANDDOS/ForzaHorizon4Fix?style=flat-square" />
   <img alt="downloads" src="https://img.shields.io/github/downloads/PAXANDDOS/ForzaHorizon4Fix/total?style=flat-square" />
 </p>
-<h2 align="center">Fix for the Forza Horizon crashes</h2>
-# Palworld-Crash-Fix-Gamepass
+<h2 align="center">Palworld-Crash-Fix-Gamepass</h2>
 
 This program fixes the Palworld crashes when sharing Xbox Gamepass with other people.
 The program works by ending the file explorer task while the game is running and restarting it after the game is closed. 
