@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Forza_Horizon_logo.svg/1249px-Forza_Horizon_logo.svg.png](https://en.wikipedia.org/wiki/File:Palworld_cover_art.jpg)" height="180"/>
+<p align="center"><img src="https://en.wikipedia.org/wiki/File:Palworld_cover_art.jpg" height="180"/>
 <p align="center">
   <img alt="windows" src="https://img.shields.io/badge/Windows-blue.svg?style=flat-square&logo=windows&logoColor=white" />
   <img alt="release" src="https://img.shields.io/github/v/release/PAXANDDOS/ForzaHorizon4Fix?style=flat-square" />
