@@ -1,8 +1,8 @@
 <p align="center"><img src="https://palworld-game.com/wp-content/uploads/2024/01/logo.png" height="180"/>
 <p align="center">
   <img alt="windows" src="https://img.shields.io/badge/Windows-blue.svg?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="release" src="https://img.shields.io/github/v/release/PAXANDDOS/ForzaHorizon4Fix?style=flat-square" />
-  <img alt="downloads" src="https://img.shields.io/github/downloads/PAXANDDOS/ForzaHorizon4Fix/total?style=flat-square" />
+  <img alt="release" src="https://img.shields.io/badge/version-1.0-green.svg?style=flat-square" />
+  <img alt="downloads" src="https://img.shields.io/github/downloads/1Robert12002/Palworld-Crash-Fix-Gamepass/total?style=flat-square" />
 </p>
 <h2 align="center">Palworld-Crash-Fix-Gamepass</h2>
 
