@@ -11,3 +11,8 @@ The program works by ending the file explorer task while the game is running and
 While the program is running you won't be able to switch tabs.
 
 Note: This fix won't help with any Unreal Engine related crashes.
+
+## :inbox_tray: Downloads
+
+
+-   **Preferred version** — [Download](https://github.com/1Robert12002/Palworld-Crash-Fix-Gamepass/releases/download/V1.0/PalWorld.bat)
