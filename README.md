@@ -1,3 +1,10 @@
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Forza_Horizon_logo.svg/1249px-Forza_Horizon_logo.svg.png" height="180"/>
+<p align="center">
+  <img alt="windows" src="https://img.shields.io/badge/Windows-blue.svg?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="release" src="https://img.shields.io/github/v/release/PAXANDDOS/ForzaHorizon4Fix?style=flat-square" />
+  <img alt="downloads" src="https://img.shields.io/github/downloads/PAXANDDOS/ForzaHorizon4Fix/total?style=flat-square" />
+</p>
+<h2 align="center">Fix for the Forza Horizon crashes</h2>
 # Palworld-Crash-Fix-Gamepass
 
 This program fixes the Palworld crashes when sharing Xbox Gamepass with other people.
