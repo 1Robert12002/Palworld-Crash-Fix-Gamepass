@@ -15,4 +15,4 @@ Note: This fix won't help with any Unreal Engine related crashes.
 ## :inbox_tray: Downloads
 
 
--   **Preferred version** — [Download](https://github.com/1Robert12002/Palworld-Crash-Fix-Gamepass/releases/download/V1.0/PalWorld.bat)
+-   **Preferred version** — [Download](https://github.com/1Robert12002/Palworld-Crash-Fix-Gamepass/archive/refs/tags/V1.0.zip)
